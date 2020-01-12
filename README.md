@@ -33,11 +33,18 @@
     methoda status 1 ise gönderilebilir. Bu settings bilgileri uygulamanın ilk açılacağı 
     category listesine eklendi.
 </p>
+<p>
+    Projede fotoğraf ve ses dosyaları kaydetmek için aws s3 kullanıldı. Bu kısmın çalışması için 
+    .env dosyasında configure edilmesi gerekmekte.
+</p>
 
 ## Start App
 
 <p>
     docker-compose up -d    
+</p>
+<p>
+    composer update
 </p>
 <p>
     php artisan passport:install
