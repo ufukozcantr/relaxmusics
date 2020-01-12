@@ -33,3 +33,12 @@
     methoda status 1 ise gönderilebilir. Bu settings bilgileri uygulamanın ilk açılacağı 
     category listesine eklendi.
 </p>
+
+## Start App
+
+<p>
+    docker-compose up -d    
+</p>
+<p>
+    php artisan passport:install
+</p>
