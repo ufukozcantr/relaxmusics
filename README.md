@@ -1,5 +1,5 @@
 ## Api For Relax Musics App
-
+<!--
 <p>
     Api login, register methodları için laravel passport paketi kullanıldı.
 </p> 
@@ -49,3 +49,4 @@
 <p>
     php artisan passport:install
 </p>
+-->
